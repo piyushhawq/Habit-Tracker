@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Habit-Tracker/static/css/main.bcb19cf7.css",
+    "main.js": "/Habit-Tracker/static/js/main.b3add79f.js",
+    "static/js/787.67c82cec.chunk.js": "/Habit-Tracker/static/js/787.67c82cec.chunk.js",
+    "static/media/homepage.jpg": "/Habit-Tracker/static/media/homepage.1f85828ac4613cba1e4d.jpg",
+    "static/media/add-new-habit-card.png": "/Habit-Tracker/static/media/add-new-habit-card.19ae8fb7a4148e5a184e.png",
+    "static/media/history-habit-card.png": "/Habit-Tracker/static/media/history-habit-card.33cffaa9a6ab2825ee70.png",
+    "static/media/home-page-habbit-card.png": "/Habit-Tracker/static/media/home-page-habbit-card.3c6151221a2a6df12376.png",
+    "static/media/progress-bg.png": "/Habit-Tracker/static/media/progress-bg.f5089cc4b6a46ad6c5f0.png",
+    "index.html": "/Habit-Tracker/index.html",
+    "main.bcb19cf7.css.map": "/Habit-Tracker/static/css/main.bcb19cf7.css.map",
+    "main.b3add79f.js.map": "/Habit-Tracker/static/js/main.b3add79f.js.map",
+    "787.67c82cec.chunk.js.map": "/Habit-Tracker/static/js/787.67c82cec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcb19cf7.css",
+    "static/js/main.b3add79f.js"
+  ]
+}
